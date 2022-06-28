@@ -1,0 +1,20 @@
+git init 
+git config --global user.name "purna"
+git config --global user.email "purna4512@gmail.com"
+
+
+touch file name 
+git status 
+git add . or git add filename 
+git status 
+git commit -m "sample message"
+git status
+git log 
+
+
+git clone https://github.com/Purna4512/git-commands.git
+git ls 
+touch file name 
+git add .
+git commit -m "sample name"
+git push 
